@@ -1,4 +1,4 @@
-![logo](https://github.com/SHASHIKATSHEGOKAR/SHASHIKATSHEGOKAR/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/SHASHIKATSHEGOKAR/SHASHIKATSHEGOKAR/blob/main/Shashikant%20Shegokar.png)
 <h1 align="center">Hi 👋, I'm Shashikant Shegokar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
