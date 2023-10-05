@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashikant Shegokar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Dataanalyst" width="400" scr="![image](https://github.com/SHASHIKATSHEGOKAR/SHASHIKATSHEGOKAR/assets/138000077/7078a607-ca98-4dfe-a250-33410226715f)">
+<img align="right" alt="Dataanalyst" width="400" scr="![image](https://github.com/SHASHIKATSHEGOKAR/SHASHIKATSHEGOKAR/assets/138000077/51477628-6b44-438a-bd62-003d8c74e521)">
 - 👨‍💻 All of my projects are available at [https://github.com/SHASHIKATSHEGOKAR?tab=repositories](https://github.com/SHASHIKATSHEGOKAR?tab=repositories)
 
 - 📝 I regularly write articles on [https://staticgame.blogspot.com/2021/02/What-is-Mean-Definition-and-how-to-Calculate-with-Examples.html](https://staticgame.blogspot.com/2021/02/What-is-Mean-Definition-and-how-to-Calculate-with-Examples.html)
