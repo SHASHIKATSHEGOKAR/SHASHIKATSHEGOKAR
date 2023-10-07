@@ -1,4 +1,4 @@
-![logo](https://github.com/SHASHIKATSHEGOKAR/SHASHIKATSHEGOKAR/blob/main/7168678_How%20to%20Be%20a%20Data%20Analyst%202022.png)
+![logo](https://github.com/SHASHIKATSHEGOKAR/SHASHIKATSHEGOKAR/blob/main/Data-Analytics-For-Small-Business.jpg)
 <h1 align="center">Hi 👋, I'm Shashikant Shegokar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
